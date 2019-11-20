@@ -43,3 +43,20 @@
 #### Getting Started
 
 * Camel is available from the official Apache Camel website at http://camel.apache.org/download.html
+* Camel distribution includes following contents
+  * doc  
+      * Contains Camel documentation
+  * examples  
+      * Contains examples projects for teaching purposes
+  * lib
+      * Contains all Camel libraries
+  * LICENSE.txt
+      * Contains license of the Camel distribution
+  * NOTICE.txt  
+      * Contains copyright information for third party dependencies
+  * README.txt
+      * Contains a short intro to Camel and list of helpful links to get new users up and running 
+
+#### Your First Camel Ride
+
+* Every Camel application uses a CamelContext that's subsequently started and stopped.
